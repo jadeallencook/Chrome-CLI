@@ -10,6 +10,12 @@ Direct your terminal to the "Chrome-CLI" directory and give the installer permis
   chmod +x install.sh
 ```
 
+And then run the installer.
+
+```sh
+  ./install.sh
+```
+
 That will make a copy of the chrome.sh file and move it to your /usr/local/bin.
 
 ## How To Use
