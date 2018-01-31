@@ -1,8 +1,8 @@
-#Chrome CLI
+# Chrome CLI
 
 Open files with Chrome from your terminal!
 
-##Installation
+## Installation
 
 Direct your terminal to the "Chrome-CLI" directory and give the installer permissions.
 
@@ -12,7 +12,7 @@ Direct your terminal to the "Chrome-CLI" directory and give the installer permis
 
 That will make a copy of the chrome.sh file and move it to your /usr/local/bin.
 
-##How To Use
+## How To Use
 
 Once you've installed the script you just have to -
 
