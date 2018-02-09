@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp ./chrome.sh /usr/local/bin
+install ./chrome.sh /usr/local/bin
